@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @wiikek
-- 👀 I’m interested in scratch
+- 👀 I’m interested in 
 - 🌱 I’m currently learning coding
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me ...
